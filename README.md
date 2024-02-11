@@ -37,6 +37,6 @@ The dataset used for this analysis consists of sales order information and relev
 
 ## Conclusion
 
-This project provides a comprehensive analysis of sales performance and profitability prediction based on the provided dataset. By leveraging exploratory data analysis and machine learning techniques, it offers insights into trends, patterns, and factors influencing sales and profitability. The project aims to assist in decision-making processes, such as pricing strategies, inventory management, targeted marketing campaigns, and customer segmentation, to improve overall business performance.
+This project provides a comprehensive analysis of sales performance and profitability prediction based on the provided dataset. By leveraging exploratory data analysis techniques, it offers insights into trends, patterns, and factors influencing sales and profitability. The project aims to assist in decision-making processes, such as pricing strategies, inventory management, targeted marketing campaigns, and customer segmentation, to improve overall business performance.
 
 Feel free to adapt and customize this README file to suit your project's specific needs.
